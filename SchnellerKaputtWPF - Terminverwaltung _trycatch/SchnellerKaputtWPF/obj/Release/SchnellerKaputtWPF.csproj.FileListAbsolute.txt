@@ -1,0 +1,16 @@
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\bin\Release\SchnellerKaputtWPF.exe.config
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\bin\Release\SchnellerKaputtWPF.exe
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\bin\Release\SchnellerKaputtWPF.pdb
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\SchnellerKaputtWPF.csprojAssemblyReference.cache
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\anlegen_aendern.g.cs
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\MainWindow.g.cs
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\App.g.cs
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\SchnellerKaputtWPF_MarkupCompile.cache
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\SchnellerKaputtWPF_MarkupCompile.lref
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\anlegen_aendern.baml
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\MainWindow.baml
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\SchnellerKaputtWPF.g.resources
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\SchnellerKaputtWPF.Properties.Resources.resources
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\SchnellerKaputtWPF.csproj.GenerateResource.cache
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\SchnellerKaputtWPF.exe
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Release\SchnellerKaputtWPF.pdb

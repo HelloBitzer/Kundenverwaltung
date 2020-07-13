@@ -1,0 +1,74 @@
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\bin\Debug\SchnellerKaputtWPF.exe.config
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\bin\Debug\SchnellerKaputtWPF.exe
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\bin\Debug\SchnellerKaputtWPF.pdb
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.csprojAssemblyReference.cache
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\MainWindow.g.cs
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\App.g.cs
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF_MarkupCompile.cache
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF_MarkupCompile.lref
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\MainWindow.baml
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.g.resources
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.Properties.Resources.resources
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.csproj.GenerateResource.cache
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.exe
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.pdb
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\anlegen_aendern.g.cs
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\anlegen_aendern.baml
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\termine_anlegen_aendern.g.cs
+C:\Users\stefan.poloczek\source\repos\SchnellerKaputtWPF\SchnellerKaputtWPF\obj\Debug\termine_anlegen_aendern.baml
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\bin\Debug\SchnellerKaputtWPF.exe.config
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\bin\Debug\SchnellerKaputtWPF.exe
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\bin\Debug\SchnellerKaputtWPF.pdb
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.csprojAssemblyReference.cache
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\anlegen_aendern.g.cs
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\MainWindow.g.cs
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\termine_anlegen_aendern.g.cs
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\App.g.cs
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF_MarkupCompile.cache
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF_MarkupCompile.lref
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\anlegen_aendern.baml
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\MainWindow.baml
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\termine_anlegen_aendern.baml
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.g.resources
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.Properties.Resources.resources
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.csproj.GenerateResource.cache
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.exe
+C:\Users\stefan.poloczek\Desktop\SchnellerKaputtWPF - Terminverwaltung\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.pdb
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\bin\Debug\SchnellerKaputtWPF.exe.config
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\bin\Debug\SchnellerKaputtWPF.exe
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\bin\Debug\SchnellerKaputtWPF.pdb
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.csprojAssemblyReference.cache
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\anlegen_aendern.g.cs
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\MainWindow.g.cs
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\termine_anlegen_aendern.g.cs
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\App.g.cs
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF_MarkupCompile.cache
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF_MarkupCompile.lref
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\anlegen_aendern.baml
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\MainWindow.baml
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\termine_anlegen_aendern.baml
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.g.resources
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.Properties.Resources.resources
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.csproj.GenerateResource.cache
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.csproj.CoreCompileInputs.cache
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.exe
+E:\woche3\SchnellerKaputtWPF - Terminverwaltung - fehlerfangen\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.pdb
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\bin\Debug\SchnellerKaputtWPF.exe.config
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\bin\Debug\SchnellerKaputtWPF.exe
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\bin\Debug\SchnellerKaputtWPF.pdb
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.csprojAssemblyReference.cache
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\anlegen_aendern.g.cs
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\MainWindow.g.cs
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\termine_anlegen_aendern.g.cs
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\App.g.cs
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF_MarkupCompile.cache
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF_MarkupCompile.lref
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\anlegen_aendern.baml
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\MainWindow.baml
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\termine_anlegen_aendern.baml
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.g.resources
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.Properties.Resources.resources
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.exe
+C:\Users\natha\OneDrive\Desktop\Arbeitsbeispiele\SchnellerKaputtWPF - Terminverwaltung _trycatch\SchnellerKaputtWPF\obj\Debug\SchnellerKaputtWPF.pdb

@@ -1,0 +1,51 @@
+﻿<Window x:Class="SchnellerKaputtWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SchnellerKaputtWPF"
+        mc:Ignorable="d"
+        Title="Schneller &amp; Kaputt AG" Height="700" Width="1000" Closing="Window_Closing" >
+    <Grid>
+
+        <Border BorderThickness="1" BorderBrush="Black" Width="490" Height="330" VerticalAlignment="Top" HorizontalAlignment="Left" Background="AliceBlue" >
+        <Grid x:Name="GRID_Kundenverwaltung" Width="490" Height="330" VerticalAlignment="Top" HorizontalAlignment="Left" >
+
+                <Label Content="Kundendaten" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10"/>
+                <DataGrid IsReadOnly="True" Name="DG_Kunden" Width="350" Height="280" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="15"   SelectedCellsChanged="DG_Kunden_Selected" />
+            <Button x:Name="BT_KD_Anlegen" Width="100" Height="30" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="5" Content="Anlegen" Click="BT_KD_Anlegen_Click" />
+            <Button x:Name="BT_KD_Aendern" Width="100" Height="30" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,5,40" Content="Ändern" Click="BT_KD_Aendern_Click" />
+            <Button x:Name="BT_KD_Loeschen" Width="100" Height="30" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,5,75" Content="Löschen" Click="BT_KD_Loeschen_Click" />
+
+
+
+        </Grid>
+        </Border>
+        <Border Width="490" Height="330" VerticalAlignment="Top" HorizontalAlignment="Right" BorderThickness="1" BorderBrush="Black" Background="AliceBlue" >
+            <Grid x:Name="GRID_Terminverwaltung" Width="490" Height="330" VerticalAlignment="Top" HorizontalAlignment="Right" >
+                <DataGrid IsReadOnly="True" Name="DG_Termine" Width="350" Height="280" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="15"  SelectedCellsChanged="DG_Termine_Selected" />
+                <Button Visibility="Hidden" Name="BT_Terminanzeigen" Content="Anzeigen" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="15"  Width="100" Click="BT_Terminanzeigen_Click"/>
+                <Button Visibility="Hidden" Name="BT_Neuer_Termin" Content="Neuer Termin" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,15,50" Width="100" Click="BT_Neuer_Termin_Click" />
+                <Button Visibility="Hidden" Name="BT_Termin_bearbeiten" Content="Ändern" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,15,85" Width="100" Click="BT_Termin_bearbeiten_Click" />
+                <Button Name="BT_Heutige_Termine" Content="Heute Anzeigen" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,70,15,85" Width="100" Click="BT_Heutige_Termine_Click" />
+                <Button Name="BT_Alle_Termine" Content="Alle Anzeigen" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,35,15,85" Width="100" Click="BT_Alle_Termine_Click" />
+
+
+
+
+            </Grid>
+        </Border>
+        <Grid x:Name="GRID_Mitarbeiterverwaltung" Width="490" Height="330" VerticalAlignment="Bottom" HorizontalAlignment="Left" >
+            <Border BorderThickness="1" BorderBrush="Black" >
+
+                <Label Content="MITARBEITERVERWALTUNG TBA" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            </Border>
+        </Grid>
+        <Grid x:Name="GRID_Lagerverwaltung" Width="490" Height="330" VerticalAlignment="Bottom" HorizontalAlignment="Right" >
+            <Border BorderThickness="1" BorderBrush="Black" >
+
+                <Label Content="LAGERVERWALTUNG TBA" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            </Border>
+        </Grid>
+    </Grid>
+</Window>
